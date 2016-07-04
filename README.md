@@ -1,4 +1,4 @@
-<!-- BEGIN TEST only. This needs to be set back to jwtk -->
+<!-- BEGIN TEST only. This needs to be set back to jwtk u -->
 
 [![Build Status](https://travis-ci.org/dogeared/jjwt.svg?branch=jacoco)](https://travis-ci.org/dogeared/jjwt)
 [![Coverage Status](https://coveralls.io/repos/dogeared/jjwt/badge.svg?branch=jacoco)](https://coveralls.io/r/dogeared/jjwt?branch=jacoco)
