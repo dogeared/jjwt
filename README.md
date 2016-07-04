@@ -1,7 +1,7 @@
 <!-- BEGIN TEST only. This needs to be set back to jwtk -->
 
-[![Build Status](https://travis-ci.org/jwtk/jjwt.svg?branch=master)](https://travis-ci.org/jwtk/jjwt)
-[![Coverage Status](https://coveralls.io/repos/dogeared/jjwt/badge.svg?branch=master)](https://coveralls.io/r/dogeared/jjwt?branch=master)
+[![Build Status](https://travis-ci.org/dogeared/jjwt.svg?branch=jacoco)](https://travis-ci.org/dogeared/jjwt)
+[![Coverage Status](https://coveralls.io/repos/dogeared/jjwt/badge.svg?branch=jacoco)](https://coveralls.io/r/dogeared/jjwt?branch=jacoco)
 
 <!-- END TEST only. This needs to be set back to jwtk -->
 
