@@ -281,6 +281,10 @@
                         <!-- leaving out lang as it mostly comes from other sources -->
                         <exclude>io/jsonwebtoken/lang/*</exclude>
                     </excludes>
+                    <methodPercentage>100%</methodPercentage>
+                    <statementPercentage>100%</statementPercentage>
+                    <conditionalPercentage>100%</conditionalPercentage>
+                    <targetPercentage>100%</targetPercentage>
                 </configuration>
                 <executions>
                     <execution>
